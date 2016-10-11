@@ -2,7 +2,6 @@
 '''
 Integrantes: 
 	Juan David Suaza Cruz
-	Juan Jose Salazar Salcedo
 '''
 import json
 from pprint import pprint
